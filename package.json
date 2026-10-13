@@ -2,9 +2,9 @@
   "name": "webpacker-angular-app",
   "private": true,
   "dependencies": {
-    "@angular/common": "^5.0.2",
-    "@angular/compiler": "^5.0.2",
-    "@angular/core": "^5.0.2",
+    "@angular/common": "^20.3.28",
+    "@angular/compiler": "^20.3.27",
+    "@angular/core": "^20.3.28",
     "@angular/platform-browser": "^5.0.2",
     "@angular/platform-browser-dynamic": "^5.0.2",
     "@rails/webpacker": "^3.0.2",
@@ -21,7 +21,7 @@
     "resolve-url-loader": "^2.2.0",
     "sass-loader": "^6.0.6",
     "to-string-loader": "^1.1.5",
-    "webpack-dev-server": "^2.9.4",
+    "webpack-dev-server": "^5.2.6",
     "webpack-merge": "^4.1.1"
   }
 }
